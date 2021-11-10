@@ -1,0 +1,149 @@
+body {
+  background-color: #1CA3A1;
+  text-align: center;
+}
+
+.home-image {
+  text-align: center;
+  padding-top: 100px;
+}
+
+.appoint-font {
+  padding-top: 50px;
+}
+
+.appoint-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.appoint-link:hover {
+  color: #40E0D0;
+}
+
+.nav-item {
+  padding: 20px 15px;
+}
+
+.about-img {
+  text-align: center;
+  margin-top: 120px;
+}
+
+.about-description {
+  font-size: 26px;
+  margin: 50px 100px;
+}
+
+.about-section{
+  margin-top: 80px;
+  }
+
+.Service-description {
+  font-size: 1.3rem;
+  text-align: center;
+  line-height: 1.5;
+  width: 50%;
+  margin: auto;
+}
+
+.service-image{
+  margin: 100px auto;
+  border-radius: 100%;
+}
+
+.corporate-description{
+  text-align: center;
+  margin: 50px auto;
+  width: 60%;
+}
+
+.corporate-section{
+  background-color: #fff;
+  padding: 50px;
+}
+
+.workplace-wellness{
+  padding: 50px;
+  color: #fff;
+}
+
+.workplace-list{
+  text-align: left;
+  margin: 150px auto;
+  width: 50%;
+}
+
+.workplace-image{
+  border-radius: 20%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.online-image{
+  border-radius: 15%;
+  margin-top: 50px;
+}
+
+.online-list{
+  width: 50%;
+  text-align: left;
+  margin: 150px auto;
+  /* list-style-position: inside; */
+}
+
+.online-wellness{
+  background-color: #fff;
+  padding: 50px;
+}
+
+li:hover{
+  color: #00C1D4;
+}
+
+h2{
+  text-align: center;
+  margin: auto;
+}
+
+.indoor-image{
+  border-radius: 100%;
+  margin: 50px auto;
+}
+
+.sports-games{
+  margin: 50px auto;
+  /* padding-right: 300px; */
+  text-align: center;
+}
+
+.corporate-tour{
+  background-color: #fff;
+  padding: 50px;
+}
+
+.tour-image{
+  border-radius: 15%;
+}
+
+.doctor-image{
+  border-radius: 15%;
+  margin: 20px;
+}
+
+.doctor-bio{
+  text-align: center;
+  margin: auto;
+}
+ .odd-section{
+   background-color: #fff;
+ }
+
+.even-section{
+  color: #fff;
+}
+
+.contact-details{
+  text-align: center;
+  margin: 100px auto;
+}
